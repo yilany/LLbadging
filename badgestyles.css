@@ -1,0 +1,27 @@
+body
+{
+    color: black;
+}
+h1 {
+    text-align: center;
+}
+h1 {
+    font-family: Georgia, "Times New Roman",
+        Times, serif }
+/*changes font size for my intro in my main page*/
+#intro {
+    font-size: 1.5em;}
+/*makes crimson color*/
+.colorful {
+    color: #A51C30;}
+.colorful {
+    margin: 10px;}
+/*changes color of links*/
+a:link {
+    color: blue }
+a:visited {
+    color: purple }
+p {
+    margin: 10px;}
+a:link{
+    margin: 10px;}
